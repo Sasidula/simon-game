@@ -1,0 +1,5 @@
+hope: 2
+lad: 1
+gain: 0
+cope: 6
+Player: 0
